@@ -1,4 +1,4 @@
-// Name: Kritika
+// Name: kitika kumarii
 // Roll No: Bcs2025462
 // Assignment 1, Question 1
 
