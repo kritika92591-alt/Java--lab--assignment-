@@ -1,4 +1,4 @@
-# Java Lab Assignments
+# JAVA ASSIGNMENT LAB
 
 **Course:** Introduction to Programming Using Java Lab (BCS351)  
 **University:** Invertis University, Bareilly  
