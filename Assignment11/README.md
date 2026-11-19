@@ -3,8 +3,8 @@
 **Course:** Introduction to Programming Using Java Lab (BCS351)  
 **University:** Invertis University, Bareilly  
 **Programme:** B.Tech CSE, Second Year  
-**Name:** YOUR NAME  
-**Roll No:** YOUR ROLL NUMBER
+**Name:** kritika  
+**Roll No:** bcs2025462
 
 ## Structure
 
