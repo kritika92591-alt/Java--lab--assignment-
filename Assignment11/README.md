@@ -22,7 +22,7 @@ Each assignment has its own folder. Each question has a `Main.java` and `output.
 | 8 | Matrices: Transpose and Row Sums | 3 |
 | 9 | Matrices: Rows and Columns | 3 |
 | 10 | Switch and ArrayList | 3 |
-| 11 | Bubble Sort and Selection Sort | 3 |
+| 11| Bubble Sort and Selection Sort | 3 |
 | 12 | Insertion Sort | 3 |
 | 13 | Strings: Methods and Palindromes | 4 |
 | 14 | Characters: Counting and Positions | 3 |
