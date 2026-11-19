@@ -14,7 +14,7 @@ Each assignment has its own folder. Each question has a `Main.java` and `output.
 |---|------------|-----------|
 | 1 | Hello World, Variables and Arithmetic | 4 |
 | 2 | Decisions and Loops with Numbers | 4 |
-| 3 | Star and Number Patterns | 4 |
+| 3| Star and Number Patterns | 4 |
 | 4 | Writing Functions | 3 |
 | 5 | Arrays: Traversal and Counting | 3 |
 | 6 | Arrays: Reverse and Duplicates | 3 |
